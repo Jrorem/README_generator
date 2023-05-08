@@ -93,10 +93,14 @@ function init() {
         ${response.installation}\n
         ## Usage\n
         ${response.usage}\n
+        ## Contribution\n
+        ${response.contribution}\n
+        ## Test\n
+        ${response.test}\n
         ## Questions\n
         Reach me via:\n
-        ${response.question1}\n
-        ${response.question2}\n
+        githug username: ${response.question1}\n
+        email: ${response.question2}\n
         ## License\n
         This application is covered under the ${response.license} license\n
       `;
