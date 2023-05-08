@@ -1,11 +1,11 @@
 
-        # asdf 
+        # README generator
 
         [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
         ## Description 
 
-        asdf
+        This is a command line interface application that will create a README file for you with information that you provide.
 
         ## Table of Contents
 
@@ -23,30 +23,22 @@
 
         ## Installation
 
-        asfd
+        To use this application, you must install inquirer v 8.2.4 and have node.js intalled on your machine.
 
         ## Usage
 
-        asfd
-
-        ## Contribution
-
-        asfd
-
-        ## Test
-
-        asfd
+        You will be prompted for information about the project you are making, like the license you are using and intallation instructions.
 
         ## Questions
 
         Reach me via:
 
-        githug username: asfd
+        github username: Jrorem
 
-        email: asdf
+        email:joerorem@gmail.com
 
         ## License
 
-        This application is covered under the MIT license
+        
 
       
